@@ -1,3 +1,5 @@
+# SWSNet
+
 This is the repository for the paper [Shear Wave Splitting Analysis using Deep Learning (SWSNet)](http://dx.doi.org/10.22541/essoar.168691708.89597483/v2)
 
 Here we introduce a baseline deep learning model SWSNet that has the potential to replace grid search methods used by previous studies to find splitting parameters 
